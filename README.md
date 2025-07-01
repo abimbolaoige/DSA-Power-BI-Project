@@ -63,6 +63,7 @@ Additionally, bonus rules were cleaned by unpivoting department-based percentage
 
 This analysis equips Palmoria’s management with critical insights to foster gender equity, ensure regulatory compliance, and create a data-driven roadmap for HR transformation. These insights are essential for enhancing employee satisfaction, brand perception, and long-term global expansion.
 
-Attached is the pdf file and the power BI file link; 
+Attached is the pdf file link; https://drive.google.com/file/d/17Ntne1CurVZEVzsPcyUmO1fiwEhxzVs4/view?usp=drive_link and the 
+power BI file link; https://drive.google.com/file/d/1cmOsg6njUa2RmVYQ2JSQwVcL2p7AdvGy/view?usp=drive_link
 https://www.linkedin.com/in/abimbola-ige-6a7377287
 
